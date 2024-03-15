@@ -14,4 +14,5 @@
 |type nul > nome.txt|criar arquivo de texto|
 |copy "link" "link"|copiar arquivos de um lugar para outro|
 |move "link" "link"|mover arquivos de um lugar para outro|
-
+|tree| mostra todos as pastas dentro de outra|
+|tree /f| mostra TODOS os arquivos de uma pasta|
